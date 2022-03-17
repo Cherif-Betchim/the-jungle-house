@@ -1,0 +1,16 @@
+.cardsP {
+    display: flex;
+}
+
+
+.product {
+    display: flex;
+}
+
+.product--image {
+    order: 1;
+}
+
+.Row{
+    margin-top: 20px;
+}

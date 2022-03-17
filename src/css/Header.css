@@ -1,0 +1,43 @@
+/*.toto{*/
+/*    position: relative;*/
+/*    top: 0px;*/
+/*    border: none;*/
+/*    height: 20px;*/
+/*    background: #58585A;*/
+/*}*/
+.logoContainer{
+    position: relative;
+
+}
+
+.logo {
+    width: 10%;
+    height: auto;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+}
+h1 {
+    color: #6DBB20;
+
+}
+
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.container{
+    min-height: 100px;
+    text-align: center;
+
+}

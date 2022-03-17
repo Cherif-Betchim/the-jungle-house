@@ -1,6 +1,6 @@
 import './css/App.css';
 import Header from './components/Header.js';
-import Cardo from './components/Card.js';
+import Cardo from './components/CardsLayout.js';
 
 
 function App() {
@@ -9,8 +9,8 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <Header/>
-                <Cardo/>
             </header>
+            <Cardo/>
         </div>
     );
 }
